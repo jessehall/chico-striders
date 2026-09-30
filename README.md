@@ -27,6 +27,8 @@ Real club photos reused from the requested original site:
 - `assets/logo.jpg`: https://static.wixstatic.com/media/17a3f8_2602dfeb89cb4de388e7ad279f286542~mv2_d_1500_1200_s_2.jpg, the official logo from the homepage. Used in the header, footer, and favicon without redrawing or recoloring.
 - `assets/team-running.jpg`: https://static.wixstatic.com/media/17a3f8_d6178342fe8741559957023392534bac~mv2.jpg, from the original homepage carousel.
 - `assets/team-together.jpg`: https://static.wixstatic.com/media/17a3f8_5f64176ade7b4bee8e8522bf876c057e~mv2.jpeg, from the original homepage carousel.
+- `assets/team-huddle.jpg`: https://static.wixstatic.com/media/17a3f8_08b8bb968f314c3686ca8cce09aa7c67~mv2_d_3024_4032_s_4_2.jpeg, from the original homepage carousel.
+- `assets/team-conditioning.jpg`: https://static.wixstatic.com/media/17a3f8_436c242420094635b3c13f003cb0c044~mv2_d_5312_2988_s_4_2.jpg, from the original homepage carousel.
 - `assets/running.jpg`: https://static.wixstatic.com/media/17a3f8_77dfbf7a58c6478f9b20cdb0874288da~mv2.jpg, from The Complete Strider page.
 
-Fonts: Barlow Condensed and DM Sans, served by Google Fonts with system fallbacks. The excluded rear-facing team photos are not included in this project.
+Fonts: Barlow Condensed and DM Sans, served by Google Fonts with system fallbacks. All four photos from the original homepage carousel are included, with the front-facing park run remaining the opening slide. The previously excluded race-start photo from the training seasons page is not included.
